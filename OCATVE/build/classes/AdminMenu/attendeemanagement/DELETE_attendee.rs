@@ -1,0 +1,12 @@
+AdminMenu.eventsmanengment.DELETE_attendee$11
+AdminMenu.eventsmanengment.DELETE_attendee$10
+AdminMenu.eventsmanengment.DELETE_attendee$9
+AdminMenu.eventsmanengment.DELETE_attendee$5
+AdminMenu.eventsmanengment.DELETE_attendee$6
+AdminMenu.eventsmanengment.DELETE_attendee$7
+AdminMenu.eventsmanengment.DELETE_attendee$8
+AdminMenu.eventsmanengment.DELETE_attendee$1
+AdminMenu.eventsmanengment.DELETE_attendee
+AdminMenu.eventsmanengment.DELETE_attendee$2
+AdminMenu.eventsmanengment.DELETE_attendee$3
+AdminMenu.eventsmanengment.DELETE_attendee$4
